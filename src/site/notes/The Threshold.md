@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-threshold/","title":"The Threshold","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"tags":["gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-threshold/","title":"The Threshold","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"tags":["gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
