@@ -1,6 +1,7 @@
 ---
-{"tags":["reading-notes-old"],"title":"Notes from Pale Blue Dot","created":"2017-02-13T18:26:38+06:00","updated":"2023-01-27T23:55:11+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Pale Blue Dot.md","permalink":"/reading/notes-and-highlights/pale-blue-dot/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/Pale Blue Dot.md","permalink":"/reading/notes-and-highlights/pale-blue-dot/","title":"Notes from Pale Blue Dot","tags":["reading-notes-old"]}
 ---
+
 
 # Pale Blue Dot
 ##### by Carl Sagan

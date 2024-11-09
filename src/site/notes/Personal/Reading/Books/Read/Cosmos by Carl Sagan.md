@@ -1,6 +1,7 @@
 ---
-{"title":"Cosmos","created":"2016-02-14T00:00:00+06:00","updated":"2023-01-26T16:14:30+06:00","read_count":"1","authors":["Carl Sagan"],"isbn10":307800989,"rating":5,"reviewed":true,"log":[{"status":"Read","timestamp":"2016-04-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2016-02-14T00:00:00+06:00"}],"dg-note-icon":2,"cover":"https://d.gr-assets.com/books/1407113244l/11509720.jpg","dg-publish":true,"dg-metatags":{"og:image":"https://d.gr-assets.com/books/1407113244l/11509720.jpg"},"tags":["bestreads","science","pop"],"status":"Read","dg-path":"Reading/Books/Read/Cosmos by Carl Sagan.md","permalink":"/reading/books/read/cosmos-by-carl-sagan/","metatags":{"og:image":"https://d.gr-assets.com/books/1407113244l/11509720.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"dg-path":"Reading/Books/Read/Cosmos by Carl Sagan.md","permalink":"/reading/books/read/cosmos-by-carl-sagan/","title":"Cosmos","metatags":{"og:image":"https://d.gr-assets.com/books/1407113244l/11509720.jpg"},"tags":["bestreads","science","pop"]}
 ---
+
 
 ### Review
 কসমস প্রথমত কার্ল সেগানের একটা বিখ্যাত টিভি ধারাবাহিক। বিষয়বস্তু আমাদের মহাবিশ্ব। বইটি কিছুটা তার লিখিত সংস্করণ।  

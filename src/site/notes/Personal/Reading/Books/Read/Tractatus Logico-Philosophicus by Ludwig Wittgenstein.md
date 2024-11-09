@@ -1,6 +1,7 @@
 ---
-{"title":"Tractatus Logico-Philosophicus","created":"2020-06-05T00:00:00+06:00","updated":"2023-07-11T11:29:08+06:00","read_count":"1","authors":["Ludwig Wittgenstein","Bertrand Russell","Charles Kay Ogden"],"rating":5,"reviewed":true,"tags":["logic","philosophy","bestreads"],"log":[{"status":"Read","timestamp":"2020-06-08T00:00:00+06:00"},{"status":"To Read","timestamp":"2020-06-05T00:00:00+06:00"}],"status":"Read","dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/Tractatus Logico-Philosophicus by Ludwig Wittgenstein.md","permalink":"/reading/books/read/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"dg-path":"Reading/Books/Read/Tractatus Logico-Philosophicus by Ludwig Wittgenstein.md","permalink":"/reading/books/read/tractatus-logico-philosophicus-by-ludwig-wittgenstein/","title":"Tractatus Logico-Philosophicus","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416873339i/913171.jpg"},"tags":["logic","philosophy","bestreads"]}
 ---
+
 
 > [!Warning] Re-reading Required
 > The review below was written 3 years back and requires a re-reading of the book.

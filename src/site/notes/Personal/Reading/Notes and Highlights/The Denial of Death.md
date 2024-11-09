@@ -1,6 +1,7 @@
 ---
-{"tags":["reading-notes-old"],"title":"Notes from The Denial of Death","created":"2018-12-08T17:55:19+06:00","updated":"2023-01-30T23:45:57+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/The Denial of Death.md","permalink":"/reading/notes-and-highlights/the-denial-of-death/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/The Denial of Death.md","permalink":"/reading/notes-and-highlights/the-denial-of-death/","title":"Notes from The Denial of Death","tags":["reading-notes-old"]}
 ---
+
 
 # The Denial of Death
 ##### by Ernest Becker

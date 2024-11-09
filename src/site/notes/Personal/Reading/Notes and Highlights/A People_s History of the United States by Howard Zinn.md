@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from A People's History of the United States by Howard Zinn","aliases":["Notes from A People's History of the United States by Howard Zinn"],"created":"2024-10-03T14:02:30+06:00","updated":"2024-10-03T14:11:38+06:00","tags":["reading-note"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/A People_s History of the United States by Howard Zinn.md","permalink":"/reading/notes-and-highlights/a-people-s-history-of-the-united-states-by-howard-zinn/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/A People_s History of the United States by Howard Zinn.md","permalink":"/reading/notes-and-highlights/a-people-s-history-of-the-united-states-by-howard-zinn/","title":"Notes from A People's History of the United States by Howard Zinn","tags":["reading-note"]}
 ---
+
 
 # A People's History of the United States
 ##### By Howard Zinn

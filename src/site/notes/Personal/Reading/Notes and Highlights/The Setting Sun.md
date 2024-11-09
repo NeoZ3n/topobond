@@ -1,6 +1,7 @@
 ---
-{"tags":["reading-notes-old"],"title":"The Setting Sun","created":"2019-12-03T17:40:07+06:00","updated":"2024-10-03T13:53:50+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/The Setting Sun.md","permalink":"/reading/notes-and-highlights/the-setting-sun/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/The Setting Sun.md","permalink":"/reading/notes-and-highlights/the-setting-sun/","title":"The Setting Sun","tags":["reading-notes-old"]}
 ---
+
 
 
 

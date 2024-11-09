@@ -1,6 +1,7 @@
 ---
-{"tags":["reading-notes-old"],"title":"Notes from The Hero With a Thousand Faces","created":"2018-08-14T17:54:47+06:00","updated":"2023-01-11T14:15:39+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/The Hero With a Thousand Faces.md","permalink":"/reading/notes-and-highlights/the-hero-with-a-thousand-faces/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/The Hero With a Thousand Faces.md","permalink":"/reading/notes-and-highlights/the-hero-with-a-thousand-faces/","title":"Notes from The Hero With a Thousand Faces","tags":["reading-notes-old"]}
 ---
+
 
 # The Hero With a Thousand Faces
 ##### by Joseph Campbell

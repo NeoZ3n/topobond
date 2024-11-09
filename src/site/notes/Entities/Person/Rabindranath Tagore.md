@@ -1,6 +1,7 @@
 ---
-{"title":"Rabindranath Tagore","aliases":["রবীন্দ্রনাথ ঠাকুর"],"type":"Person","dg-note-icon":2,"dg-publish":true,"tags":["person","person/polymath","person/activist","person/writer"],"updated":"2023-09-26T09:14:52","created":"2023-01-15T10:57:45","dg-path":"Entities/People/Rabindranath Tagore.md","permalink":"/entities/people/rabindranath-tagore/","dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"dg-path":"Entities/People/Rabindranath Tagore.md","permalink":"/entities/people/rabindranath-tagore/","title":"Rabindranath Tagore","tags":["person","person/polymath","person/activist","person/writer"]}
 ---
+
 
 [Rabindranath Tagore](https://en.wikipedia.org/wiki/Rabindranath%20Tagore) is undoubtedly the most important polymath of Bengal.[^1] He wrote prolifically, painted, preached pacifism, questioned well-established values, and brought Bengali literature to modernity.
 

@@ -1,6 +1,7 @@
 ---
-{"tags":["reading-notes-old"],"title":"Notes from My Name Is Red","aliases":["Notes from My Name Is Red"],"created":"2016-12-17T18:29:10+06:00","updated":"2023-07-12T09:18:50+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/My Name Is Red.md","permalink":"/reading/notes-and-highlights/my-name-is-red/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/My Name Is Red.md","permalink":"/reading/notes-and-highlights/my-name-is-red/","title":"Notes from My Name Is Red","tags":["reading-notes-old"]}
 ---
+
 
 # My Name Is Red
 ##### By Orhan Pamuk

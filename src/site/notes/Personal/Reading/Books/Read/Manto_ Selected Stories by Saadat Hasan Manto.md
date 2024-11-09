@@ -1,6 +1,7 @@
 ---
-{"title":"Manto: Selected Stories","created":"2018-12-18T00:00:00+06:00","updated":"2023-02-09T15:52:57+06:00","read_count":"1","authors":["Saadat Hasan Manto","Aatish Taseer (Translator)"],"isbn10":8184000499,"rating":5,"reviewed":true,"dg-publish":true,"dg-metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426145608i/7518598.jpg"},"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426145608i/7518598.jpg","tags":["bestreads"],"log":[{"status":"Read","timestamp":"2019-01-12T00:00:00+06:00"},{"status":"To Read","timestamp":"2018-12-18T00:00:00+06:00"}],"status":"Read","dg-path":"Reading/Books/Read/Manto_ Selected Stories by Saadat Hasan Manto.md","permalink":"/reading/books/read/manto-selected-stories-by-saadat-hasan-manto/","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426145608i/7518598.jpg"},"dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-publish":true,"dg-path":"Reading/Books/Read/Manto_ Selected Stories by Saadat Hasan Manto.md","permalink":"/reading/books/read/manto-selected-stories-by-saadat-hasan-manto/","title":"Manto: Selected Stories","metatags":{"og:image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426145608i/7518598.jpg"},"tags":["bestreads"]}
 ---
+
 
 Only recently, I think, Manto is getting traction once again. A writer disowned by his country because of cultural bigotry (This act is an irony itself since Manto himself left his country and then regretted it.) and was unable to grow in his new ground, died as a middle-aged man. 
 

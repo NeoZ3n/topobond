@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from Meditations: The Annotated Edition by Marcus Aurelius, Robin Waterfield (editor)","updated":"2023-02-12T21:55:08+06:00","created":"2022-02-17T06:45:03+06:00","latitude":23.78561204,"longitude":89.81143947,"altitude":-58.789,"dg-publish":true,"dg-note-icon":"stone","tags":["philosophy","stoicism","western","reading-note"],"dg-path":"Reading/Notes and Highlights/Meditations_ The Annotated Edition by Marcus Aurel.md","permalink":"/reading/notes-and-highlights/meditations-the-annotated-edition-by-marcus-aurel/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/Meditations_ The Annotated Edition by Marcus Aurel.md","permalink":"/reading/notes-and-highlights/meditations-the-annotated-edition-by-marcus-aurel/","title":"Notes from Meditations: The Annotated Edition by Marcus Aurelius, Robin Waterfield (editor)","tags":["philosophy","stoicism","western","reading-note"]}
 ---
+
 
 # Meditations: The Annotated Edition
 ### Marcus Aurelius, Robin Waterfield (editor)

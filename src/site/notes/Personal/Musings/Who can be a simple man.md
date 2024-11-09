@@ -1,6 +1,7 @@
 ---
-{"title":"Who can be a simple man?","location":"বাড্ডা, ঢাকা","tags":["modernity","crisis","faith"],"dg-publish":true,"dg-note-icon":2,"dg-metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"created":"2023-01-14T21:38:11+06:00","updated":"2023-01-29T01:54:14+06:00","dg-path":"Musings/Who can be a simple man.md","permalink":"/musings/who-can-be-a-simple-man/","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"dg-path":"Musings/Who can be a simple man.md","permalink":"/musings/who-can-be-a-simple-man/","title":"Who can be a simple man?","metatags":{"description":"A note on the crisis of faith among the modern intellectuals.","og:description":"A note on the crisis of faith among the modern intellectuals."},"tags":["modernity","crisis","faith"]}
 ---
+
 
 > সহজ লোকের মতো কে চলিতে পারে।
 > কে থামিতে পারে এই আলোয় আঁধারে

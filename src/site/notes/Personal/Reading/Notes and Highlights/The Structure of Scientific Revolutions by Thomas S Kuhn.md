@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from The Structure of Scientific Revolutions by Thomas S. Kuhn","aliases":["Notes from The Structure of Scientific Revolutions by Thomas S. Kuhn"],"created":"2023-03-27T15:22:08+06:00","updated":"2024-06-24T10:53:16+06:00","dg-note-icon":"stone","linter-yaml-title-alias":"Notes From The Structure of Scientific Revolutions","dg-publish":true,"tags":["reading-note"],"dg-path":"Reading/Notes and Highlights/The Structure of Scientific Revolutions by Thomas S Kuhn.md","permalink":"/reading/notes-and-highlights/the-structure-of-scientific-revolutions-by-thomas-s-kuhn/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/The Structure of Scientific Revolutions by Thomas S Kuhn.md","permalink":"/reading/notes-and-highlights/the-structure-of-scientific-revolutions-by-thomas-s-kuhn/","title":"Notes from The Structure of Scientific Revolutions by Thomas S. Kuhn","tags":["reading-note"]}
 ---
+
 
 # Notes From The Structure of Scientific Revolutions
 ##### Kuhn, Thomas S.

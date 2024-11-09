@@ -1,6 +1,7 @@
 ---
-{"title":"Pratītyasamutpāda","aliases":["dependant origination","dependant arising"],"type":"Concept","dg-publish":true,"dg-note-icon":1,"tags":["concept","concept/buddhism","concept/theology","concept/philosophy"],"updated":"2023-02-27T12:12:17","created":"2023-02-27T11:00:35","dg-path":"Entities/Concepts/Buddhism/Pratītyasamutpāda.md","permalink":"/entities/concepts/buddhism/pratityasamutpada/","dgPassFrontmatter":true,"noteIcon":1}
+{"dg-publish":true,"dg-path":"Entities/Concepts/Buddhism/Pratītyasamutpāda.md","permalink":"/entities/concepts/buddhism/pratityasamutpada/","title":"Pratītyasamutpāda","tags":["concept","concept/buddhism","concept/theology","concept/philosophy"]}
 ---
+
 
 Pratītyasamutpāda (dependant origination) is a Buddhist doctrine that claims that all phenomena arises from another and makes way for other phenomena to happen.
 

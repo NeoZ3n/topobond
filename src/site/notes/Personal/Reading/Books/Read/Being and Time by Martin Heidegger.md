@@ -1,6 +1,7 @@
 ---
-{"title":"Being and Time","created":"2019-10-03T00:00:00+06:00","updated":"2023-02-14T18:05:52+06:00","read_count":"1","authors":["Martin Heidegger","Joan Stambaugh","Dennis J. Schmidt"],"isbn10":1438432763,"log":[{"status":"Read","timestamp":"2021-05-01T00:00:00+06:00"},{"status":"To Read","timestamp":"2019-10-03T00:00:00+06:00"}],"reviewed":true,"rating":3,"dg-publish":true,"dg-note-icon":2,"cover":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","dg-metatags":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","tags":["existentialism","ontology","philosophy"],"status":"Read","dg-path":"Reading/Books/Read/Being and Time by Martin Heidegger.md","permalink":"/reading/books/read/being-and-time-by-martin-heidegger/","metatags":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"dg-path":"Reading/Books/Read/Being and Time by Martin Heidegger.md","permalink":"/reading/books/read/being-and-time-by-martin-heidegger/","title":"Being and Time","metatags":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438455i/92307.jpg","tags":["existentialism","ontology","philosophy"]}
 ---
+
 
 > [!warning]
 > Before we proceed, a perhaps typical reminder: **I have not understood a lot/most/anything of this book.**

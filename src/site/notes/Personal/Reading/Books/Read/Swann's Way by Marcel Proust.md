@@ -1,6 +1,7 @@
 ---
-{"title":"Swann's Way","aliases":["Swann's Way"],"authors":["Marcel Proust"],"publisher":"National Geographic Books","publish":"2004-11-30","pages":615,"isbn10":"0142437964","isbn13":"9780142437964","rating":"5","reviewed":true,"cover":"https://books.google.com/books/content?id=-5yMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","read_count":"1","series":{"remembrance":1},"tags":["book","Fiction"],"log":[{"status":"Read","timestamp":"2023-10-01T17:51:24+06:00"},{"status":"In Progress","timestamp":"2023-07-02T18:02:55+06:00"}],"created":"2023-07-01T17:49:40+06:00","updated":"2023-10-08T11:31:35+06:00","status":"Read","dg-publish":true,"dg-note-icon":1,"dg-path":"Reading/Books/Read/Swann's Way by Marcel Proust.md","permalink":"/reading/books/read/swann-s-way-by-marcel-proust/","dgPassFrontmatter":true,"noteIcon":1}
+{"dg-publish":true,"dg-path":"Reading/Books/Read/Swann's Way by Marcel Proust.md","permalink":"/reading/books/read/swann-s-way-by-marcel-proust/","title":"Swann's Way","tags":["book","Fiction"]}
 ---
+
 
 > [!warning] Reconsideration needed
 > I have just read this first book of the *Remembrance of Things Past*. Therefore, this review can be riddled with misunderstanding.

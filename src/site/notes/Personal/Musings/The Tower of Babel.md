@@ -1,6 +1,7 @@
 ---
-{"title":"The Tower of Babel","aliases":["The Tower of Babel"],"location":"Badda, Dhaka","tags":["society","myth","etiology"],"created":"2024-09-05T10:14:33+06:00","updated":"2024-09-16T00:24:50+06:00","dg-publish":true,"dg-note-icon":3,"dg-path":"Musings/The Tower of Babel.md","permalink":"/musings/the-tower-of-babel/","dgPassFrontmatter":true,"noteIcon":3}
+{"dg-publish":true,"dg-path":"Musings/The Tower of Babel.md","permalink":"/musings/the-tower-of-babel/","title":"The Tower of Babel","tags":["society","myth","etiology"]}
 ---
+
 
 > [!quote] [Genesis 11:1-9 (NIV)](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NIV)
 > *1* Now the whole world had one language and a common speech. *2* As people moved eastward, they found a plain in Shinar and settled there.

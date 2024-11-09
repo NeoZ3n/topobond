@@ -1,6 +1,7 @@
 ---
-{"tags":["reading-notes-old"],"title":"Notes from Weapons of Math Destruction","aliases":["Notes from Weapons of Math Destruction"],"created":"2019-11-09T17:43:56+06:00","updated":"2023-07-11T15:24:14+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Weapons of Math Destruction.md","permalink":"/reading/notes-and-highlights/weapons-of-math-destruction/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/Weapons of Math Destruction.md","permalink":"/reading/notes-and-highlights/weapons-of-math-destruction/","title":"Notes from Weapons of Math Destruction","tags":["reading-notes-old"]}
 ---
+
 
 # Weapons of Math Destruction
 ##### By Cathy O'Neil

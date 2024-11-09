@@ -1,6 +1,7 @@
 ---
-{"title":"Anattā","aliases":["anātman","Anattā"],"tags":["concept","concept/buddhism","concept/theology","concept/philosophy"],"type":"Concept","updated":"2023-03-01T16:02:23","dg-publish":true,"dg-note-icon":2,"created":"2023-02-22T12:41:15","dg-path":"Entities/Concepts/Buddhism/Anatman.md","permalink":"/entities/concepts/buddhism/anatman/","dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"dg-path":"Entities/Concepts/Buddhism/Anatman.md","permalink":"/entities/concepts/buddhism/anatman/","title":"Anattā","tags":["concept","concept/buddhism","concept/theology","concept/philosophy"]}
 ---
+
 
 The Buddhist concept of **Anattā** categorically denies the existence of a transcendent self (e.g. soul) that found amongst almost all other major religions. Self, as taught by Buddha, is an aggregation of senses and intellect.
 

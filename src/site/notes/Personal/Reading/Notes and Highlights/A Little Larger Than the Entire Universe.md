@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from A Little Larger Than the Entire Universe","aliases":["Notes from A Little Larger Than the Entire Universe"],"created":"2023-07-07T19:45:17+06:00","updated":"2023-07-12T17:14:59+06:00","tags":["reading-notes-old"],"dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/A Little Larger Than the Entire Universe.md","permalink":"/reading/notes-and-highlights/a-little-larger-than-the-entire-universe/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/A Little Larger Than the Entire Universe.md","permalink":"/reading/notes-and-highlights/a-little-larger-than-the-entire-universe/","title":"Notes from A Little Larger Than the Entire Universe","tags":["reading-notes-old"]}
 ---
+
 
 # A Little Larger Than the Entire Universe
 ##### Fernando Pessoa

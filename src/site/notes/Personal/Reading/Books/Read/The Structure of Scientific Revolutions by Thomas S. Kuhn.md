@@ -1,6 +1,7 @@
 ---
-{"title":"The Structure of Scientific Revolutions","authors":["Thomas S. Kuhn"],"publisher":"University of Chicago Press","publish":"2012-04-30","pages":263,"isbn10":"0226458113","isbn13":"9780226458113","rating":3,"reviewed":false,"cover":"https://books.google.com/books/content?id=0q_0swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","read_count":"1","tags":["book","Science","history"],"created":"2022-12-30T18:22:02+06:00","updated":"2024-10-03T13:55:15+06:00","log":[{"status":"Read","timestamp":"2023-03-27T15:27:22+06:00"},{"status":"In Progress","timestamp":"2023-01-26T14:17:00+06:00"},{"status":"To Read","timestamp":"2022-12-30T18:22:02+06:00"}],"status":"Read","dg-publish":true,"dg-note-icon":1,"dg-path":"Reading/Books/Read/The Structure of Scientific Revolutions by Thomas S. Kuhn.md","permalink":"/reading/books/read/the-structure-of-scientific-revolutions-by-thomas-s-kuhn/","dgPassFrontmatter":true,"noteIcon":1}
+{"dg-publish":true,"dg-path":"Reading/Books/Read/The Structure of Scientific Revolutions by Thomas S. Kuhn.md","permalink":"/reading/books/read/the-structure-of-scientific-revolutions-by-thomas-s-kuhn/","title":"The Structure of Scientific Revolutions","tags":["book","Science","history"]}
 ---
+
 
 An interesting read, a must-read for people in this field, perhaps. The concepts presented here are not much harder to understand, though Kuhn's style is a little confusing.
 

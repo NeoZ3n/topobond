@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from Cosmos by Carl Sagan","created":"2026-03-25T18:25:39+06:00","updated":"2023-01-11T00:02:58+06:00","dg-publish":true,"dg-note-icon":"stone","tags":["reading-notes-old"],"dg-path":"Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan.md","permalink":"/reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/Notes from Cosmos by Carl Sagan.md","permalink":"/reading/notes-and-highlights/notes-from-cosmos-by-carl-sagan/","title":"Notes from Cosmos by Carl Sagan","tags":["reading-notes-old"]}
 ---
+
 
 # Cosmos
 ##### by Carl Sagan

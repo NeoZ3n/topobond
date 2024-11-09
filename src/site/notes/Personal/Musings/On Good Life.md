@@ -1,6 +1,7 @@
 ---
-{"title":"On Good Life","location":"Badda, Dhaka","tags":["life","morality"],"created":"2023-01-01T01:04:23+06:00","updated":"2023-01-12T12:20:47+06:00","dg-publish":true,"dg-note-icon":2,"dg-path":"Musings/On Good Life.md","permalink":"/musings/on-good-life/","dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"dg-path":"Musings/On Good Life.md","permalink":"/musings/on-good-life/","title":"On Good Life","tags":["life","morality"]}
 ---
+
 
 The simplest of all definitions (and the best) of the good life I found is the one given by Bertrand Russell:
 

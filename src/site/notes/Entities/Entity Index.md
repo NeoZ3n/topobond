@@ -1,6 +1,7 @@
 ---
-{"title":"Index","aliases":["Entity Index"],"dg-note-icon":"signpost","dg-publish":true,"dg-pinned":true,"garden-index":true,"dg-hide-in-graph":true,"tags":["entities"],"updated":"2023-03-25T22:51:51","created":"2023-03-25T22:35:25","permalink":"/entities/entity-index/","hideInGraph":true,"pinned":true,"dgPassFrontmatter":true,"noteIcon":"signpost"}
+{"dg-publish":true,"permalink":"/entities/entity-index/","title":"Index","hideInGraph":true,"pinned":true,"tags":["entities"]}
 ---
+
 
 | Title                                                                                                 | Aliases                                                           | Type            | Tags                                                             |
 | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------- | ---------------------------------------------------------------- |

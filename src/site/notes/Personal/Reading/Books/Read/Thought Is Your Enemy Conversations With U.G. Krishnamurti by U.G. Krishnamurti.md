@@ -1,6 +1,7 @@
 ---
-{"title":"Thought is Your Enemy","aliases":["Thought is Your Enemy"],"authors":["Uppaluri Gopala Krishnamurti","Antony Paul Frank Noronha"],"publisher":"Smriti Books","publish":"2002","pages":202,"isbn10":"8187967110","isbn13":"9788187967118","rating":"5","reviewed":false,"cover":"https://books.google.com/books/publisher/content/images/frontcover/PGHXld75CCAC?fife=w600-h900&source=gbs_api","read_count":"1","tags":["book","Biography","Autobiography","metaphysics","philosophy"],"log":[{"status":"Read","timestamp":"2024-02-27T12:36:50+06:00"},{"status":"In Progress","timestamp":"2024-02-19T16:54:08+06:00"},{"status":"To Read","timestamp":"2024-02-19T16:53:30+06:00"}],"created":"2024-02-19T16:53:30+06:00","updated":"2024-02-28T13:43:10+06:00","status":"Read","dg-publish":true,"dg-note-icon":2,"dg-path":"Reading/Books/Read/Thought Is Your Enemy Conversations With U.G. Krishnamurti by U.G. Krishnamurti.md","permalink":"/reading/books/read/thought-is-your-enemy-conversations-with-u-g-krishnamurti-by-u-g-krishnamurti/","dgPassFrontmatter":true,"noteIcon":2}
+{"dg-publish":true,"dg-path":"Reading/Books/Read/Thought Is Your Enemy Conversations With U.G. Krishnamurti by U.G. Krishnamurti.md","permalink":"/reading/books/read/thought-is-your-enemy-conversations-with-u-g-krishnamurti-by-u-g-krishnamurti/","title":"Thought is Your Enemy","tags":["book","Biography","Autobiography","metaphysics","philosophy"]}
 ---
+
 
 This is the sort of book that disturbs you. I sought after this kind of book.
 

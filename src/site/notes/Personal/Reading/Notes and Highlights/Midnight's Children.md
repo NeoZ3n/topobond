@@ -1,6 +1,7 @@
 ---
-{"tags":["reading-notes-old"],"title":"Midnight's Children","created":"2016-04-10T18:50:49+06:00","updated":"2024-10-03T14:14:46+06:00","dg-publish":true,"dg-note-icon":"stone","dg-path":"Reading/Notes and Highlights/Midnight's Children.md","permalink":"/reading/notes-and-highlights/midnight-s-children/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/Midnight's Children.md","permalink":"/reading/notes-and-highlights/midnight-s-children/","title":"Midnight's Children","tags":["reading-notes-old"]}
 ---
+
 
 # Midnight's Children (25th Anniversary Edition)
 ##### By Salman Rushdie

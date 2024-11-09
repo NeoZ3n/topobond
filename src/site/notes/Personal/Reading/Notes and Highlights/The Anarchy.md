@@ -1,6 +1,7 @@
 ---
-{"title":"Notes from The Anarchy","updated":"2023-01-30T23:45:26+06:00","created":"2022-07-16T15:13:28+06:00","latitude":23.78275333,"longitude":90.42131667,"altitude":-17,"dg-publish":true,"dg-note-icon":"stone","tags":["history","indian","south-asian","european","english"],"dg-path":"Reading/Notes and Highlights/The Anarchy.md","permalink":"/reading/notes-and-highlights/the-anarchy/","dgPassFrontmatter":true,"noteIcon":"stone"}
+{"dg-publish":true,"dg-path":"Reading/Notes and Highlights/The Anarchy.md","permalink":"/reading/notes-and-highlights/the-anarchy/","title":"Notes from The Anarchy","tags":["history","indian","south-asian","european","english"]}
 ---
+
 
 ### Page 46
 that then controlled South and Central America was licensed by the Crown and was essentially a form of Elizabethan state-sanctioned organised crime controlled by the oligarchs of Whitehall and Charing Cross.

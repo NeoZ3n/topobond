@@ -1,6 +1,7 @@
 ---
-{"title":"Evey Hammond","aliases":["Evey","Evey Hammond"],"type":"Character","created":"2023-10-25T11:07:09","updated":"2023-10-26T16:20:22","tags":["VforVendetta","X"],"dg-publish":true,"dg-note-icon":1,"permalink":"/entities/literature/v-for-vendetta/characters/evey-hammond/","dgPassFrontmatter":true,"noteIcon":1}
+{"dg-publish":true,"permalink":"/entities/literature/v-for-vendetta/characters/evey-hammond/","title":"Evey Hammond","tags":["VforVendetta","X"]}
 ---
+
 
 Evey Hammond is one of the central characters of [[Personal/Reading/Books/Read/V for Vendetta by Alan Moore\|V for Vendetta]].
 
